@@ -38,8 +38,6 @@ violence-against-women-fiji-analysis/
 │   └── violence-against-women-fiji-report.docx    # Full written report
 ├── infographics/
 │   └── violence-against-women-fiji-infographic.pdf # Visual summary of findings
-├── data/                                            # Source/processed data (add as available)
-└── docs/                                            # Supplementary notes, references
 ```
 
 ## About FemLINK Pacific
